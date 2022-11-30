@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web development 
-- 🌱 I’m currently learning Machine learning and C++
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building scalable web applications.
+- 🌱 I’m currently learning Javascript and C++.
+- 👯 I’m looking to collaborate on edtech and any ML projects.
+- 🤔 I’m looking for help with Nodejs and Machine Learning
